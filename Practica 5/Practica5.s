@@ -26,7 +26,7 @@
         li $t2, 0                   #inicialitzar comptador de 'X' a 0
         li $t3, 2                   #constant màxim 'X' consecutives
         li $t0, 0                   #incialitzar comptador de carácters en línia actual
-        li $t4, 79                  #màxim carácters en línia actual (el final de línia s'introdueix automàticament)
+        li $t4, 79                  #constant màxim carácters en línia actual (el final de línia s'introdueix automàticament)
         li $t6, 0x0a                #constant salt de línia '\n'
         li $t7, 0x20                #constant espai ' '   
 
